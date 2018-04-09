@@ -1,0 +1,12 @@
+Dear player,I'm very glad that in your free time you choosed to play this game...
+I know that you allready know how to play this game,but you need to know some tips for this one :)) ...
+As you know,you could move your snake up,down,left,right and as you eat some food it's size will increase,but sometimes
+on your screen will appear a black sqare and eating it could give you speed,or could take it,can increase your size,or decrease it and more stuff that I let you discover...
+For movement you should know this:
+	ALT + W : up
+	ALT + S : down
+	ALT + A : left
+	ALT + D : right
+But you could also use mouse to press the buttons that are showed in the left size of the window
+
+YOUR JURNEY BEGINS !!!!
